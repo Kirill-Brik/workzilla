@@ -4450,6 +4450,16 @@ div.wpforms-container-full .wpforms-form .wpforms-field {
 }
 
 @media (max-width: 500px) {
+  .bannercon a {
+    width: 100px;
+    font-size: 10px;
+    line-height: 15px;
+  }
+
+  .logo {
+    width: 100px;
+  }
+
   .contacts {
     grid-template-columns: 1fr;
     width: max-content;
